@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.cml.springcloud.AppTest" time="0.001" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="com.cml.springcloud.AppTest" time="0" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="D:\server\jdk1.8.0_101\jre\bin"/>
     <property name="java.vm.version" value="25.101-b13"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="F:\spcworksace\config-client"/>
+    <property name="maven.multiModuleProjectDirectory" value="F:\workspace\springcloudtest\config-client"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="F:\spcworksace\config-client"/>
+    <property name="user.dir" value="F:\workspace\springcloudtest\config-client"/>
     <property name="java.runtime.version" value="1.8.0_101-b13"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="D:\server\jdk1.8.0_101\jre\lib\endorsed"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="F:\spcworksace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2290002536565720358.tmp"/>
+    <property name="classworlds.conf" value="F:\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf9090848373010045958.tmp"/>
     <property name="sun.jnu.encoding" value="GBK"/>
     <property name="java.library.path" value="D:\server\jdk1.8.0_101\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:/server/jre1.8.0_101/bin/server;D:/server/jre1.8.0_101/bin;D:/server/jre1.8.0_101/lib/amd64;D:\Python\Scripts\;D:\Python\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\server\apache-maven-3.5.0\bin;D:\server\jdk1.8.0_101\bin;D:\server\jdk1.8.0_101\jre\bin;D:\Git\cmd;D:\TortoiseGit\bin;C:\Users\pactera\AppData\Local\Microsoft\WindowsApps;;D:\server\sts-bundle\sts-3.9.0.RELEASE;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -61,5 +61,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testApp" classname="com.cml.springcloud.AppTest" time="0.001"/>
+  <testcase name="testApp" classname="com.cml.springcloud.AppTest" time="0"/>
 </testsuite>
