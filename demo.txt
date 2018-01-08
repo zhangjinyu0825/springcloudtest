@@ -1,0 +1,10 @@
+ public static void main(String[] args) {
+	try {
+		String password = "cip";
+		String str = ConfigTools.encrypt(password);
+		System.out.println(str);
+	} catch (Exception e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+}
