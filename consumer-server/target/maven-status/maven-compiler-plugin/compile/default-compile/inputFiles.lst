@@ -1,0 +1,4 @@
+F:\workspace\springcloudtest\consumer-server\src\main\java\com\cml\springcloud\ConsumerApplication.java
+F:\workspace\springcloudtest\consumer-server\src\main\java\com\cml\springcloud\feign\HelloRemote.java
+F:\workspace\springcloudtest\consumer-server\src\main\java\com\cml\springcloud\controller\ConsumerController.java
+F:\workspace\springcloudtest\consumer-server\src\main\java\com\cml\springcloud\service\HelloRemoteHystrix.java
